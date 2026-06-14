@@ -96,3 +96,17 @@ style="border-radius:50%; border:4px solid white; box-shadow:0 0 20px #3b82f6;">
 © 2026 MadyChillzz. All Rights Reserved.
     </footer>
 
+<p>Visitors: <span id="count">0</span></p>
+
+<script>
+let count = localStorage.getItem("visits");
+
+if (!count) {
+  count = 0;
+}
+count++;
+
+localStorage.setItem("visits", count);
+
+document.getElementById("count").innerText = count;
+</script>
