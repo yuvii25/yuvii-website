@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MADY VLOGS & EDITS</title>
+<title>The boss</title>
 
 <style>
 body{
@@ -54,7 +54,7 @@ p{
 <body>
 
 <header>
-<h1>MADY VLOGS & EDITS</h1>
+<h1>The boss</h1>
 <p>Welcome to my official website 🚀</p>
 <a class="btn" href="#">Subscribe Now</a>
 </header>
